@@ -1,0 +1,15 @@
+1. hey theres a file element.mp4 video look at the element in that video i want exact same 3d element with same exact animation and same colors analyze and make an implementation plan to build it exactly like that
+2. i need to submit this in 20 mins make it fast implement this and i need exact same as the sample output video
+3. Continue
+4. Continue
+5. how to run it
+6. i dont see anything on the fucing scree what the fuck is this
+7. its just a fucking plain blank black screen what the fuck are u doing
+8. continue
+9. increase the brightness of colors and thickness of dots and use glowing neon colors
+10. and the view is fucking limited just from top and side make it 360 and use the colors from the image and increase brightness and saturation and make it 360 degree rotatable view
+11. make the it bright neon rainbow colors in a wave and enable the zoom out option too
+12. push it to this github and add this grid 3d element to our algoryx git@github.com:s6ulm9d/grid.git and allow glb file to be downloaded
+13. i want red blue pink green violet neon colors moving in wave form change to these colors
+14. add it to algoryx's 3d assets section
+15. why the fuck u didnot generate the prompts.txt file u stupid fuck idk what ull do i want every single fucking prompt back in the prompt txt file
